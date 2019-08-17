@@ -1,0 +1,28 @@
+(
+ (
+  (
+   Micromonas_pusilla|10682683-PF11397,
+   Micromonas_pusilla|10682684-PF11397
+  ),
+  (
+   Ostreococcus_lucimarinus|10682692-PF11397,
+   Ostreococcus_tauri|10682685-PF11397
+  )
+ ),
+ (
+  (
+   (
+    Chlamydomonas_reinhardtii|10682689-PF11397,
+    Chlamydomonas_reinhardtii|10682690-PF11397
+   ),
+   Volvox_carteri|10682687-PF11397
+  ),
+  (
+   Volvox_carteri|10682686-PF11397,
+   (
+    Chlamydomonas_reinhardtii|10682688-PF11397,
+    Chlamydomonas_reinhardtii|10682691-PF11397
+   )
+  )
+ )
+);
