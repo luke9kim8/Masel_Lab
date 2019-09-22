@@ -1,0 +1,16 @@
+(
+ Fusarium_fujikuroi|11096022-PF10056,
+ (
+  (
+   (
+    Aspergillus_oryzae|11096019-PF10056,
+    Aspergillus_terreus|11096021-PF10056
+   ),
+   Aspergillus_clavatus|11096018-PF10056
+  ),
+  (
+   Aspergillus_clavatus|11096017-PF10056,
+   Aspergillus_terreus|11096020-PF10056
+  )
+ )
+);
